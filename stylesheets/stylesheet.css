@@ -7,10 +7,10 @@ body {
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
-  color: #606c71; }
+  color: #4b464d; }
 
 a {
-  color: #1e6bb8;
+  color: #ff179f;
   text-decoration: none; }
   a:hover {
     text-decoration: underline; }
@@ -56,8 +56,8 @@ a {
 .page-header {
   color: #fff;
   text-align: center;
-  background-color: #159957;
-  background-image: linear-gradient(120deg, #155799, #159957); }
+  background-color: #ff179f;
+  background-image: linear-gradient(120deg, #ff179f, #ffde0d); }
 
 @media screen and (min-width: 64em) {
   .page-header {
@@ -112,7 +112,7 @@ a {
   margin-top: 2rem;
   margin-bottom: 1rem;
   font-weight: normal;
-  color: #159957; }
+  color: #ff179f; }
 .main-content p {
   margin-bottom: 1em; }
 .main-content code {
@@ -136,7 +136,7 @@ a {
     padding: 0;
     margin: 0;
     font-size: 0.9rem;
-    color: #567482;
+    color: #4b464d;
     word-break: normal;
     white-space: pre;
     background: transparent;
@@ -169,8 +169,8 @@ a {
 .main-content blockquote {
   padding: 0 1rem;
   margin-left: 0;
-  color: #819198;
-  border-left: 0.3rem solid #dce6f0; }
+  color: #979298;
+  border-left: 0.3rem solid #f0c4ed; }
   .main-content blockquote > :first-child {
     margin-top: 0; }
   .main-content blockquote > :last-child {
