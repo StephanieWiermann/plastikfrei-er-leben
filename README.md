@@ -11,5 +11,9 @@ Experimentiert, optimiert die Rezepte, gebt sie weiter und zeigt es anderen.
 Hier wird nur noch das Changelog weitergeführt
 
 Der Download ist nun auf der Website
+<<<<<<< HEAD
 
 ##https://plastikfreier-leben.de##
+=======
+#####http://plastikfreier-leben.de#####
+>>>>>>> origin/master
